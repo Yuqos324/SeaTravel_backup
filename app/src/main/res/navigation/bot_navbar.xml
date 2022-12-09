@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bot_navbar"
+    app:startDestination="@id/home_frag">
+
+    <fragment
+        android:id="@+id/home_frag"
+        android:name="id.kotlin.seatravel.fragments.home_frag"
+        android:label="fragment_home_frag"
+        tools:layout="@layout/fragment_home_frag" />
+    <fragment
+        android:id="@+id/pesan_frag"
+        android:name="id.kotlin.seatravel.fragments.pesan_frag"
+        android:label="fragment_pesan_frag"
+        tools:layout="@layout/fragment_pesan_frag" />
+    <fragment
+        android:id="@+id/riwayat_frag"
+        android:name="id.kotlin.seatravel.fragments.riwayat_frag"
+        android:label="fragment_riwayat_frag"
+        tools:layout="@layout/fragment_riwayat_frag" />
+    <fragment
+        android:id="@+id/resto_frag"
+        android:name="id.kotlin.seatravel.fragments.resto_frag"
+        android:label="fragment_resto_frag"
+        tools:layout="@layout/fragment_resto_frag" />
+</navigation>

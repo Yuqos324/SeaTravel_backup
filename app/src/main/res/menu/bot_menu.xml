@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_frag"
+        android:title="Home"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/riwayat_frag"
+        android:title="Riwayat"
+        android:icon="@drawable/ic_riwayat" />
+    <item
+        android:id="@+id/pesan_frag"
+        android:title="Pesan"
+        android:icon="@drawable/ic_pesan" />
+    <item
+        android:id="@+id/resto_frag"
+        android:title="Restaurant"
+        android:icon="@drawable/ic_resto"/>
+</menu>

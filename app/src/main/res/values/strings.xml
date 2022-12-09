@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SeaTravel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Heading-->
+    <string name="head_1">Advanture of the Seas</string>
+    <string name="head_2">Allure of the Seas</string>
+    <string name="head_3">Aria Amazon</string>
+    <string name="head_4">Avalon Expression</string>
+    <string name="head_5">Brilliance of the Seas</string>
+    <string name="head_6">Celebrity Edge</string>
+    <string name="head_7">Costa Firenza</string>
+
+    <!--Desc-->
+    <string name="desc_1">Kapasitas penumpang: 6.899</string>
+    <string name="desc_2">Kapasitas penumpang: 5.990</string>
+    <string name="desc_3">Kapasitas penumpang: 6.000</string>
+    <string name="desc_4">Kapasitas penumpang: 6.570</string>
+    <string name="desc_5">Kapasitas penumpang: 5.700</string>
+    <string name="desc_6">Kapasitas penumpang: 6.230</string>
+    <string name="desc_7">Kapasitas penumpang: 6.900</string>
+</resources>
